@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6f03ab41-7c16-4d3a-a508-7c95a9dde9b4": {
+      "ProjectGuid": "6f03ab41-7c16-4d3a-a508-7c95a9dde9b4",
+      "DisplayName": "Pyrros.FunctionApp",
+      "ColorIndex": 0
+    },
+    "8724655c-8734-4156-a805-6e5f83fe0d15": {
+      "ProjectGuid": "8724655c-8734-4156-a805-6e5f83fe0d15",
+      "DisplayName": "Pyrros.Service",
+      "ColorIndex": 1
+    },
+    "293e5b16-b6ae-4476-9de9-ffc3fc04e7f9": {
+      "ProjectGuid": "293e5b16-b6ae-4476-9de9-ffc3fc04e7f9",
+      "DisplayName": "Pyrros.Repository",
+      "ColorIndex": 2
+    },
+    "51db3c3e-552a-418c-b5ed-a6f10a771537": {
+      "ProjectGuid": "51db3c3e-552a-418c-b5ed-a6f10a771537",
+      "DisplayName": "Pyrros.Entity",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

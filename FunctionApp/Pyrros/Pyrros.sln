@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pyrros.FunctionApp", "Pyrros.FunctionApp\Pyrros.FunctionApp.csproj", "{6F03AB41-7C16-4D3A-A508-7C95A9DDE9B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pyrros.Service", "Pyrros.Service\Pyrros.Service.csproj", "{8724655C-8734-4156-A805-6E5F83FE0D15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pyrros.Repository", "Pyrros.Repository\Pyrros.Repository.csproj", "{293E5B16-B6AE-4476-9DE9-FFC3FC04E7F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pyrros.Entity", "Pyrros.Entity\Pyrros.Entity.csproj", "{51DB3C3E-552A-418C-B5ED-A6F10A771537}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F03AB41-7C16-4D3A-A508-7C95A9DDE9B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F03AB41-7C16-4D3A-A508-7C95A9DDE9B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F03AB41-7C16-4D3A-A508-7C95A9DDE9B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F03AB41-7C16-4D3A-A508-7C95A9DDE9B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8724655C-8734-4156-A805-6E5F83FE0D15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8724655C-8734-4156-A805-6E5F83FE0D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8724655C-8734-4156-A805-6E5F83FE0D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8724655C-8734-4156-A805-6E5F83FE0D15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{293E5B16-B6AE-4476-9DE9-FFC3FC04E7F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{293E5B16-B6AE-4476-9DE9-FFC3FC04E7F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{293E5B16-B6AE-4476-9DE9-FFC3FC04E7F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{293E5B16-B6AE-4476-9DE9-FFC3FC04E7F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51DB3C3E-552A-418C-B5ED-A6F10A771537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51DB3C3E-552A-418C-B5ED-A6F10A771537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51DB3C3E-552A-418C-B5ED-A6F10A771537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51DB3C3E-552A-418C-B5ED-A6F10A771537}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E5EC2C7-5EB2-474C-8FE7-E9A8C7065A45}
+	EndGlobalSection
+EndGlobal

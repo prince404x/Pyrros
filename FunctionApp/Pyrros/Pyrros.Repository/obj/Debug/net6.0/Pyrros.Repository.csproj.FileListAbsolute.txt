@@ -1,0 +1,15 @@
+D:\Prince\Projects\Pyrros\Pyrros.Repository\obj\Debug\net6.0\Pyrros.Repository.csproj.AssemblyReference.cache
+D:\Prince\Projects\Pyrros\Pyrros.Repository\obj\Debug\net6.0\Pyrros.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prince\Projects\Pyrros\Pyrros.Repository\obj\Debug\net6.0\Pyrros.Repository.AssemblyInfoInputs.cache
+D:\Prince\Projects\Pyrros\Pyrros.Repository\obj\Debug\net6.0\Pyrros.Repository.AssemblyInfo.cs
+D:\Prince\Projects\Pyrros\Pyrros.Repository\obj\Debug\net6.0\Pyrros.Repository.csproj.CoreCompileInputs.cache
+D:\Prince\Projects\Pyrros\Pyrros.Repository\bin\Debug\net6.0\Pyrros.Repository.deps.json
+D:\Prince\Projects\Pyrros\Pyrros.Repository\bin\Debug\net6.0\Pyrros.Repository.dll
+D:\Prince\Projects\Pyrros\Pyrros.Repository\bin\Debug\net6.0\ref\Pyrros.Repository.dll
+D:\Prince\Projects\Pyrros\Pyrros.Repository\bin\Debug\net6.0\Pyrros.Repository.pdb
+D:\Prince\Projects\Pyrros\Pyrros.Repository\bin\Debug\net6.0\Pyrros.Entity.dll
+D:\Prince\Projects\Pyrros\Pyrros.Repository\bin\Debug\net6.0\Pyrros.Entity.pdb
+D:\Prince\Projects\Pyrros\Pyrros.Repository\obj\Debug\net6.0\Pyrros.Repository.csproj.CopyComplete
+D:\Prince\Projects\Pyrros\Pyrros.Repository\obj\Debug\net6.0\Pyrros.Repository.dll
+D:\Prince\Projects\Pyrros\Pyrros.Repository\obj\Debug\net6.0\ref\Pyrros.Repository.dll
+D:\Prince\Projects\Pyrros\Pyrros.Repository\obj\Debug\net6.0\Pyrros.Repository.pdb
